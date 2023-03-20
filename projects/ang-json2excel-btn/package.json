@@ -1,0 +1,22 @@
+{
+  "name": "ang-json2excel-btn",
+  "version": "2.0.2",
+  "description": "Angular library component to export JSON data to Excel file",
+  "author": "Ola Boluwatife",
+  "license": "MIT",
+  "keywords": [ "Amgular", "Excel", "ngx", "Typescript", "JSON", "Export" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boluwatifee4/AngJson2excelBtn.git"
+  },
+  "homepage": "https://ang-json2excel-btn-demo.netlify.app/",
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
